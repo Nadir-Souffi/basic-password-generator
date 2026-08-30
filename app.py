@@ -7,6 +7,7 @@ def on_click():
     entry.insert(0, new_password)  
     entry.config(state="readonly")
 
+check_password_strength()
 root = tk.Tk()
 root.title("Password Generator")
 root.geometry("640x480")
