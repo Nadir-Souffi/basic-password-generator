@@ -7,3 +7,4 @@ basic-password-generator/
 ├── password_checker_logic.py   # Pure Python strength evaluation logic
 ├── .gitignore                  # Git exclusion rules
 └── README.md                   # Project documentation
+ 
